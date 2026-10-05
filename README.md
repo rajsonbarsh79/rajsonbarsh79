@@ -43,9 +43,17 @@ Backend Software Engineer with **2.7+ years of experience** specializing in buil
 ### ⚡ Featured Enterprise Impact
 
 - 🚀 **80%+ API Latency Reduction:** Slashed API response times from **1.2s to <200ms** and cut payload sizes by 80% (5MB → ~50KB) via server-side pagination across 100K+ relational records.
-- 🏗️ **Dual-Tier EXP/Process Architecture:** Designed separated client experience (EXP) layers using Kotlin & GraphQL alongside process-layer REST APIs in Java.
+- 🏗️️ **Dual-Tier EXP/Process Architecture:** Designed separated client experience (EXP) layers using Kotlin & GraphQL alongside process-layer REST APIs in Java.
 - 📦 **600K+ Record Pipelines:** Built Reader-Processor-Writer batch pipelines delivering zero-data-loss execution for enterprise risk platforms.
 - 🛠️ **System Simplification:** Engineered dynamic JSON-based metadata mappings in PostgreSQL, reducing relational tables by ~90% and backend Java boilerplate by ~85%.
+
+---
+
+### 🧪 Currently Building & Exploring
+
+- ⚙️ **High-Throughput Microservices:** Refining dynamic rate limiting & circuit breaker resiliency patterns using Spring Cloud Gateway.
+- 🧠 **Enterprise GenAI & RAG:** Building local LLM workflows paired with `pgvector` for semantic document retrieval.
+- 📚 **Technical Writing:** Drafting backend architecture guides on microservices latency optimization and database schema scaling.
 
 ---
 
@@ -60,11 +68,15 @@ Backend Software Engineer with **2.7+ years of experience** specializing in buil
 
 <div align="center">
 
-  <h3>📈 GitHub Activity Overview</h3>
+  <h3>🤝 Let's Connect & Build Together</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_Spring_Boot_%7C_Quarkus_%7C_PostgreSQL-002B5B?style=for-the-badge" alt="Main Stack" />
-    <img src="https://img.shields.io/badge/Specialization-Microservices_%26_AI_RAG-003366?style=for-the-badge" alt="Specialization" />
+    <a href="mailto:rajsonbarsh@gmail.com">
+      <img src="https://img.shields.io/badge/Send_Email-rajsonbarsh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/rajsonbarsh">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Raj_R_Sonbarsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 
 </div>
